@@ -1,0 +1,1 @@
+This is a basic Movie application which returns the details of the movie.
